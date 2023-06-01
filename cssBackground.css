@@ -1,0 +1,103 @@
+
+
+h1, h2, h3, h4,h5 {
+    font-weight: 900;
+}
+input {
+    text-align: center;
+    font-weight: bolder;
+    padding: 0 0.2em;
+    width: 65%;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 10px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: double;
+    font-size: large;
+
+}
+button {
+    height: 30px;
+    background-color: darkorange;
+    width: 60px;
+    color: white;
+    font-weight: bolder;
+    border-radius: 4px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: double;
+}
+body ,html {
+    background: url("https://cdn.codegym.vn/wp-content/uploads/2022/08/BANNER-scaled.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;/* 3 dòng background này để kéo phông ảnh sao cho đẹp hơn và vừa với màn hình*/
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+img{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: double;
+}
+div{
+    font-size: larger;
+    color: black;
+    font-weight: 1000;
+}
+/*----------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------*/
+a{
+    font-size: 100%;
+    color: #007bff; /* Màu chữ */
+    text-decoration: none; /* Loại bỏ gạch chân */
+    transition: color 0.3s ease; /* Hiệu ứng chuyển màu mượt mà */
+}
+a:hover {
+    color: #ff0000; /* Màu chữ khi di chuột qua */
+}
+p {
+    font-weight: bolder;
+}
+.footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    font-size: 15px;
+    color: #666;
+}
+
+#table1 {
+    background-color: aliceblue;
+}
+
+#table2 {
+    background-color: blanchedalmond;
+    width: 1500px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #f2f2f2;
+    font-size: 300%;
+    padding-top: 0;
+}
+
+option {
+    text-align: center;
+    font-weight: bolder;
+    padding: 0 0.2em;
+    width: 65%;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 10px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: double;
+    font-size: large;
+}
